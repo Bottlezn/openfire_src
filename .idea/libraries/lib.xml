@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/plugins/fastpath/lib/xstream.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/fastpath/lib/lucene.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/plugins/fastpath/lib/commons-fileupload-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
